@@ -18,7 +18,7 @@ git clone https://github.com/Vladimir21512/Effective-Mobile-Task.git
 - /users/example-query-auth
 - /users/get-user
 - /users/users-list
-- /users/block
+- /users/block<br />
 Полную документацию в формате json можно посмотреть по адресу /api после запуска приложения
 
 ## Настройка окружения
