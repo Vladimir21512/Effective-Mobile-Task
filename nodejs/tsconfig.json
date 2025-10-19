@@ -1,0 +1,17 @@
+{
+
+  "compilerOptions": {
+    "types": [
+      "node"
+    ],
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    
+    "module": "nodenext",
+    "target": "esnext",
+
+    "esModuleInterop": true,
+    "outDir": "dist",
+    "baseUrl": "."
+  }
+}

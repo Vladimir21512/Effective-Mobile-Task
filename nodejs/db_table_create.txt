@@ -1,0 +1,1 @@
+CREATE TABLE users(id SMALLSERIAL, firstname VARCHAR(20), lastname VARCHAR(20), patronymic VARCHAR(20), birthdate DATE, email VARCHAR(30) UNIQUE, password VARCHAR(100), isadmin BOOLEAN, isactive BOOLEAN);
