@@ -21,7 +21,7 @@ git clone https://github.com/Vladimir21512/Effective-Mobile-Task.git
 - /users/block<br />
 Полную документацию в формате json можно посмотреть по адресу /api после запуска приложения
 
-## Настройка окружения
+## Настройка окружения(если не используете Docker)
 - .env: PORT - порт NodeJS приложения; POSTGRES_DB, POSTGRES_PASSWORD, POSTGRES_USER, POSTGRES_HOST - данные базы данных
 - PostgreSQL: создайте базу данных и создайте таблицу:
 ```bash
