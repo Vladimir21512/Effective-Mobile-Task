@@ -1,4 +1,8 @@
-
+## Начало
+Скопируйте файлы репозитория:
+```bash
+git clone https://github.com/Vladimir21512/Effective-Mobile-Task.git
+```
 ## Версии
 При создании проекта использовались `NodeJS v22.20.0` и
 `npm v10.9.3`
