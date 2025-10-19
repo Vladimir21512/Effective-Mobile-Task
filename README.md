@@ -9,7 +9,8 @@ git clone https://github.com/Vladimir21512/Effective-Mobile-Task.git
 
 ## Аутенфикация
 
-Аутенфикация через access и refresh токены. **Refresh** живёт **3 дня**, **access** - **3 минуты**
+Аутенфикация через access и refresh токены. **Refresh** живёт **3 дня**, **access** - **3 минуты**<br />
+Для авторизации под админа используйте любую почту и пароль из .env 
 
 ## Конечные точки
 - /api
