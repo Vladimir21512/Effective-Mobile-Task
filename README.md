@@ -39,8 +39,7 @@ CREATE TABLE users(id SMALLSERIAL, firstname VARCHAR(20), lastname VARCHAR(20), 
   npm run start
 ```
 ## Запуск через Docker
-В файле `docker-compose.yml` измените переменные окружения если это необходимо. <br /> Важно: если запускаете **PostgreSQL** на **другом сервере**, то для сервиса app в environment для POSTGRES_HOST укажите ip-адрес сервера, на котором запущена БД.<br /> 
-После чего в корневом каталоге для создания образов запустите: 
+В файле `docker-compose.yml` измените переменные окружения если это необходимо. <br /> Важно: если запускаете **PostgreSQL** на **другом сервере**, то для сервиса app в environment для POSTGRES_HOST укажите ip-адрес сервера, на котором запущена БД.<br /> После чего в корневом каталоге для создания образов запустите: 
 ```bash
 docker compose up 
 ```
